@@ -1,4 +1,4 @@
-function removeFirstAndLastCharacter(arrayParam) {
+function removeFirstAndLastCharacter(stringParam) {
 
 
     // returning a value of string

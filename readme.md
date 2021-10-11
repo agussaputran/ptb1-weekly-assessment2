@@ -1,4 +1,4 @@
-# 2nd Week Backend Assessment PTB
+# 2nd Week Backend Assessment PTB 1
 
 In this assessment you have create a function with string parameter and returns a value of string.  
 
