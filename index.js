@@ -10,5 +10,5 @@ console.log(removeFirstAndLastCharacter("malam"))
 
 // expected output
 // "ala"
-
+//test1
 // testgit
